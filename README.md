@@ -1,5 +1,7 @@
 ## TODO
 
+[![Join the chat at https://gitter.im/Jay-Oh-eN/data-engineering-101](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Jay-Oh-eN/data-engineering-101?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 1. build docker image
 2. build final result
 3. have git tags to checkout
