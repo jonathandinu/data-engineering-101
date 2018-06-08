@@ -91,10 +91,10 @@ pip install -r requirements.txt
 
 #### Flask
 
-1. `docker run -it -v /LOCAL/PATH/TO/REPO/data-engineering-101:/root/workshop clearspandex/pydata-seattle bash`  
-    `docker run -it -v .:/root/workshop clearspandex/pydata-seattle bash`
+1. `docker run -it -v /LOCAL/PATH/TO/REPO/data-engineering-101:/root/workshop clearspandex/pydata-seattle bash`
 2. `pip2 install flask`
-3. `ipython2 app.py`
+3. `cd /root/workshop/`
+4. `ipython2 app.py`
 
 ### Libraries Used
 * [luigi](http://luigi.readthedocs.org/en/latest/index.html)
