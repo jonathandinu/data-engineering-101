@@ -2,7 +2,7 @@
 
 This repository contains the files and data from the workshop as well as resources around Data Engineering. For the workshop (and after) we will use a Discord chatroom to keep the conversation going: https://discord.gg/86cYcgU.
 
-And/or please do not hesitate to reach out to me directly via email at jonathan@galvanize.com or over twitter @clearspandex
+And/or please do not hesitate to reach out to me directly via email at inquiries@jonathan.industries or over twitter @memoryphoneme
 
 The presentation can be found on Slideshare [here](http://www.slideshare.net/jonathandinu/presentation-45784222) or in this repository (`presentation.pdf`). Video can be found [here](https://www.youtube.com/watch?v=Ny2X_WNxrB4).
 
