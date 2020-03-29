@@ -1,6 +1,6 @@
 # Data Engineering 101: Building a Data Pipeline
 
-This repository contains the files and data from the workshop as well as resources around Data Engineering. For the workshop (and after) we will use a [Gitter](http://gitter.im) chatroom to keep the conversation going: [https://gitter.im/Jay-Oh-eN/data-engineering-101](https://gitter.im/Jay-Oh-eN/data-engineering-101).
+This repository contains the files and data from the workshop as well as resources around Data Engineering. For the workshop (and after) we will use a Discord chatroom to keep the conversation going: Hi everyone, thanks for all the great messages in this channel. I am transitioning all my chatrooms over to Discord to better manage them and keep them active. You can join this room over there -> https://discord.gg/86cYcgU.
 
 And/or please do not hesitate to reach out to me directly via email at jonathan@galvanize.com or over twitter @clearspandex
 
