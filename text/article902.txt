@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-I need to buy a SCSI controler for my 486 machine to use with a quantum  
-425F harddrive. I know that adaptec is good, but they are kind of  
-expensive. Essentially I want a controller in the $100-$150 range that I
-can use with this drive. I plan to use Windows and later on OS 2.1 when it  
-comes out. Any reccomendations appreciated.
-
--Eric

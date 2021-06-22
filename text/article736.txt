@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-Is it possible to connect a atari monochrome monitor to some kind of VGA card?
-
-If someone have done this please let me know how.
-
-	Thanx

@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-
-I remember reading somewhere (QEMM manual, I think) that 
-STACK=9,256 is needed only for the Windows SETUP program.  
-Otherwise, use STACK=0,0.

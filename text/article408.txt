@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-'>First off, with all these huge software packages and files that
-'>they produce, IDE may no longer be sufficient for me (510 Mb limit).
-
-	Micropolis seems to have broken this limit.  They have IDE 560meg
-   and 1050meg HD's available.  
-							Greg Greene
-                                                        ggg@kepler.unh.edu

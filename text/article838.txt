@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-I would doubt that you would be able to use the hard drive. XT drives
-usually came in MFM or RLL flavors. I bet your 386SX has IDE drives. The
-two are not compatible on the same controller. However, you might be
-able to use the drive *with its controller* in your 386SX. You should be
-able to plug your 360K drive into your existing 386SX controller (I
-think). You might have to use the floppy controller that was used in the
-XT.

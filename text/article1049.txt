@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-OK, the small programme that can be used to switch a SunCD drive into
-2048 bytes/block mode for use with MSDOS/Adaptec/APSI it now available
-by 'ftp' from
-
-	ftp.novell.de (193.97.1.1) pub/pc/adaptec/cdblksize.zip

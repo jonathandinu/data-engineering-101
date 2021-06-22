@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-
-
-The F550iW is optimized for Windows.  It powers down when the screen
-blanker appears, it powers down with you turn your computer off, and it
-meets all of the Swedish standards.  It's also protected against  EMI from
-adjacent monitors. 

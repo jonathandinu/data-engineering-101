@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-... deletions...
- same as the pattern if no sim was in place.  This leads me to believe
-
-
-Many motherboards have jumpers to enable/disable the memory banks.  Did you 
-check that out?

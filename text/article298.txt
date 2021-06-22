@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-Hi there,
-
-I think it is time to create a MS DOS 6.0  FAQ since lots of questions
-about it are actually flooding the net.  I won't be able to write it
-my self because of the lack of time/knowledge/experience.

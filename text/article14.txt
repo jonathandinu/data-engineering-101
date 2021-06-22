@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-I'd like to add a second S3 based video card to my system.  Does anyone
-know of a company that sells a card that can coexist with another one?
-All I really need is color text on one monitor and fast color graphics
-on the other.

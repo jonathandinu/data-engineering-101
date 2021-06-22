@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-If your Gateway is equipped with a Western hard drive, then the noise
-is probably coming from there and not from the fan.  The Western drives
-are notoriously noisy.  On the other hand, if you don't have a Western
-drive, then maybe it is the fan.  There's not alot to do about it except
-insulate around the cpu somehow.

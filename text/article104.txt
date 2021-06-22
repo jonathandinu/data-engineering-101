@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-Has anyone tried connecting an Apple Laserwriter II to a PC?
-Do I need any special controller card or software to do that?
-
-Thanks for any comments.

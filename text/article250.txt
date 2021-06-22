@@ -1,4 +1,0 @@
-comp.sys.ibm.pc.hardware
-I got a harddisk shipped with an IDE specification but not the
-SCSI spec. Would someone tell me how to set the jumper on
-the harddrive? Thanks.  Please email response.

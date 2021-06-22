@@ -1,5 +1,0 @@
-alt.atheism
-
-Tail-recursive functions in Scheme are at least as efficient as iterative
-loops.  Anyone who doesn't program in assembler will have heard of optimizing
-compilers.

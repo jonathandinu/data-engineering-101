@@ -1,4 +1,0 @@
-comp.sys.ibm.pc.hardware
-Is there anybody who has (or can point me in the right direction) any
-information about protected mode? Also interested in protected mode viewed from
-a OS point of view.

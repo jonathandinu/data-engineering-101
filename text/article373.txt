@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-I just picked up a second-hand "color option" for the NEC P5200
-24pin dot matrix printer.  Alas, there were no installation instructions,
-so I am totally confused on WHY it WON'T GO IN!
-
-Do I have to remove the actaual print head?  It seems *almost* to fit,
-but not quite.
-
-Please... any info would be most appreciated!

@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-What are the current products available to upgrade the resolution?
-Which ones support postscript?
-
-Any experiences with them, either good or bad?
-
-Is the quality difference really noticable?

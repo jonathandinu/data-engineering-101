@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-Yes, You bought the WRONG SIMMS.....You need 1X36 or 4X36, which are 72 pin
-SIMMS.....These are better anyway becuase the send/receive data in 4byte
-(32bit+4bit parity, one for each byte) Chunks. You will undoubtedly see these
-SIMMS becoming more widely used in the near future.
-
-Jason
--- 

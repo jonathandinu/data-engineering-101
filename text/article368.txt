@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-If anyone has any experience with the ALR ProVEISA 486DX2 system I would 
-be interested to hear your impressions of it, and of ALR in general.
-
-Thank you.
-
-/mark
-
-

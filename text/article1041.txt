@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-there is a file out there (look for it with archie) that is called
-'theref22.zip' which has lots of info on various PC things,
-amongst which is also a detailed description of all Floppy controller
-commands, I think hard drive controller commands are not there.
-
-it is possible to read an entire track including all gaps, sector
-headers etc.   by setting sector size to something very large (like
-8K).

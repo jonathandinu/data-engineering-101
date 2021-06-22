@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-Well, it all depends on the motherboard implimentation.
-
-I'm sure someone will make a vlb motherboard that takes 1x9
-simms and uses a pentium processor.  I'm also sure that there 
-will be some motherboards that won't.

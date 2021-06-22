@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-I need to know the Pins to connect to make a loopback connector for a serial
-port so I can build one.  The loopback connector is used to test the 
-serial port.
-
-Thanks for any help.

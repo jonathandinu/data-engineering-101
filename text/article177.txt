@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-Hi,
-
-I just inherited an NCR 1204 external floppy.  This thing has every port known to man on the back.
-The question is: Does anyone know how to connect this thing to a PC. What hardware is needed?
-Software?
-
-TIA,
-Alex

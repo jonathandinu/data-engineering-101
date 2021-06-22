@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-I think it all depends on your motherboard and the cards you have in your system.  Your HD stopped boot probably because your HD controller can't handle the faster BUS speed.  I have a 486-33DX, I set my bus divider to CLK/2.5, that is close to 13MHz.  I can gain singificant performace increase on my Video card and harddisk transfer rate when I boost the bus speed.  And my system work flawlessly under this setting.  And you know what, when I go to CLK/2(17MHz BUS), my HD refuse to boot.  
-
-Just my 2 cent.

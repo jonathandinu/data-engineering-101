@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-Maybe you need to go into \mach32\install and set a refresh rate for
-1280x1024.  You might need to use custom monitor option.
-
-Dan
-

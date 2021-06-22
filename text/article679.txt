@@ -1,4 +1,0 @@
-comp.sys.ibm.pc.hardware
-How is the CMOS backed-up? Dry cell batteries or ni-cad cell?
-
-Your batteries may be dead.

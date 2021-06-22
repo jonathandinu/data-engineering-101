@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-IBM has displayed a 486DX3/99 as a *TECHNOLOGY DEMO*.
-
-This effectivly means - "here's some neat technology". It is not
-a commitment to make such an item...
-
-
-Guy

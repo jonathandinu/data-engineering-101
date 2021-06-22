@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-I think it's simply because DOS doesn't use the IRQ for anything. OS/2 does,
-so with that you can't share the IRQ.
-
-Anssi
-

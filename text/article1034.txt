@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-According to what others have told me, the ST-296N is difficult to run at
-the 1:1 interleave even though Seagate claims it.  I have a non-pc system
-(don't ask what it is, you probably haven't heard of it) that is built
-around SCSI and it can't do 1:1, either.
-
-                                        Brian
-                           ( bcwhite@sunee.uwaterloo.ca )

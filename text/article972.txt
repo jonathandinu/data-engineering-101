@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-What's the difference between the F550i and the new F550iW?  I'm
-about to buy a Gateway system and was going to take the F550i
-upgrade.  Should I get the F550iW instead?

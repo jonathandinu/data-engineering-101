@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-ites:
-a
-The newer the drive, the less problem you will have. The old ten and fifteen
-meg full heights were power hogs, but I have over twenty units that I set up
-running flawlessly with half height drives and/or hard cards.
-
--- 

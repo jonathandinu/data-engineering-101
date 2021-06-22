@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-OK all you experts!
-Need answer quick.386 machine ,1.44 floppy ; unable to write to a formated
-720 disk.Machine claims that disk is write protected,but it is not.
-
-Note: It 'll read 720's with no problem.

@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-[intermediate reply suggesting cable switch deleted]
-
-
-I hate to burst your bubble but you cannot "slip in a B:" to that
-particular AMI BIOS setting. That setting only allows you to set
-the *boot order* of the floppy A: with respect to the primary HD C:,
-i.e., check A: first, then C: or check C:, then A:.

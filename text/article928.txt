@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-Hmmmmmm...I got my comp with windows pre-installed, and stacks is still
-9,256.  if it was needed only for setup, wouldn't the morons take it
-off???  (also, I don't have the qemm manual, as verything came with the
-comp,  but not the qemm manual, so could anyone verify this???)
-
-Mickey

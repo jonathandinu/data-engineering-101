@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-Help!
-  I'm trying to configure NCSA Telnet v2.3.05 to work with a 3C503 ethernet
-board.  I can use FTP fine, but whenever I attempt to use Telnet, the
-machine hangs with a blank screen and a blinking green cursor.  Any ideas?

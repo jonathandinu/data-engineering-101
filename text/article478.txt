@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-One more thing to add, the Orchid board vesa bios is only
-able to handle the 1 meg dram on board, the Viper however can
-utilize the 2 meg vram on board to support vesa modes such as
-1280x1024x256, 800x600x16 mil. and 1024x768x65536 under Dos.

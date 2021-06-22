@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-Is there a QIC-80 format tape drive that comes
-with an EISA controller ?
-Colorado's 250 only has ISA and MCA controllers.
-
-Thanks. e-mail please.
-
--- 

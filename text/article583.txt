@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-PC Mag only got around 9-10 Winmarks when they tested the Steal 24.  It sounds
-like you are ok.
-jamesc
-

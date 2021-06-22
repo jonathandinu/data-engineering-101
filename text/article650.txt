@@ -1,3 +1,0 @@
-comp.sys.ibm.pc.hardware
-Is it possible to plug an ordinary ISA card into a VESA localbus slot?
-I am running out of slots and I have one spare localbus slot.

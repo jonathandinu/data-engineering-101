@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-Hi,
-VLB is defined for 3 cards by 33MHz
-and 2 cards by 40MHz
-
-there are designs with 50MHz and 2 VLB-Slots.
-(s. C't 9.92, 10.92, 11.92)
-
-50MHz and 2 Slots are realy difficult to design.

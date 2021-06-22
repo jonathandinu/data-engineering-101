@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-Since the net has convinced me not to try FastMicro (if they
-were still answering their phones) does anybody have any
-opinions on Micron Computer, Inc?  Their 486VL Magnum got an
-Editors Choice in the Jan 26th roundup of 486/66s.
-
-Email and I'll sumarize.

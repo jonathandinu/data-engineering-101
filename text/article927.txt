@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-Well, some quick math on my part shows that an 8.3MHz bus, 16 bits
-wide, performing a transfer every two clock cycles will provide 8.3M
-bytes/sec.  Someone said that it really takes 3 clock cycles to
-perform a transfer, so that reduces the transfer rate to 5.5MB/s,
-which is the commonly-used figure for ISA bus speed.  However, I
-believe a two-clock transfer is possible (0 wait states).

@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-I am looking at buying some Companion brand VLB/ISA/EISA motherboards with
-HINT chipsets.  Has anybody had any experience with this board (good or bad)?
-Any information would be helpful!
-
-thanks

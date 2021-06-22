@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-one way to get the system going with one floppy drive and one hard
-disk on a 63 watt power supply is to first disconnect the power from
-the floppy drive than turn on the pc, you will notice the hard drive
-having a real difficult time getting up to speed, but it manages.
-when booting is finished, plug in your floppy drive, now it will work.
-
-(ok I know this is not very user friendly, maybe you are better off
-buying a 486-66 with 300 watt power supply or something like that)

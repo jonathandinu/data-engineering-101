@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-     No, you need not bypass the config.sys, in Dos 6.0, there is a function 
-of multi-config, have you tried BOOT.SYS ? the multi-config is the kind that 
-you can choose you config.sys at the startup. And I find that is very good. 
-It has no conflict to QEMM. (I have problem when using BOOT.SYS)
-    The key you say is F8, which is trace the config.sys step by step.
-    Sorry, if any error :)

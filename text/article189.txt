@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-Does anyone have enough experience to report whether disk data
-compression has any effect on the optimal disk sector interleave?
-Offhand, I expect that the time required to decompress disk data
-would increase the optimum disk sector interleave.
-                                              - Alan Hinds

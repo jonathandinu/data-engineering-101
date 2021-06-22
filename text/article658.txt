@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-Still no good.  WatchIT TV will not work on a with local bus video.
-It will not work in any high reolution modes either.  The people who
-make the card assure me that they will have a card available in June 
-that supports both local-bus and hi-res.  BTW does anyone know the
-name of the company who makes watchit tv?  Phone #?  BBS? Internet?
-
-Thanks

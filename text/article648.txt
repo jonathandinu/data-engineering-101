@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-I have a promovie spectrum, it seems to work very nicely with Video for
-Windows. With my setup (386-25, 17 ms HD, PAS-16, and orchid F VA), the
-board could handle up to 15 frame/s. 

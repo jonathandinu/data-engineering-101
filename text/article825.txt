@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-I have a 486 machine with a 3.5" A: drive and a 5.25" B: drive.  I
-want to swap them so 3.5" drive is A:  What do I have to do?
-
-TIA

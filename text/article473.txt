@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-Hi, all hardware netters,
-
-  I've seen recently on some magazines advertising a ?NEW? Trident
-graphics card call 8900CL. The ad said it's new and *faster*. How is it
-compare to Tseng ET4000? BTW, which is the fastest *non-accelerated* SVGA
-on the market? Any info or benchmark are welcome. Thanks in advance.
-
-						regards,

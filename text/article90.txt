@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-Hello, I am trying to hook an Apple Imagewriter to my IBM Clone.
-I seem to have a problem configuring my lpt port to accept this.  How can
-you adjust baud, parity, etc. to fit the system?  I tried MODE, but it did
-not work.  If anyone can help, post of e-mail.  Thanx.

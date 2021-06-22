@@ -1,6 +1,0 @@
-*.pyc
-/vendor
-cache.json
-histogram.json
-.*.swp
-.*.swo

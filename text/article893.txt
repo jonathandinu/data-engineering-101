@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-How can one tell which prong of your basic chip is number 20?  I realize there
-is a chunk of the chip missing so that one can orient it correctly.  So 
-using that hole as a guide, how can I count the prongs of the chip to find
-#20?  Please help.

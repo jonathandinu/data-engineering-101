@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-
-Well, not to be picky, but the V in VLB stands for VESA.
-While the V in VESA stands for video, saying the V in VLB stands
-for video is not entirely correct.

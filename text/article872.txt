@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-Hi! I was wondering if anyone out there could point me to where I can
-get the VESA specifications or any relevant books on this subject.
-
-Regards
-Jimmy

@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-Does your Stealth 24 have a row of DIP switches on the back plane?
-
-If so, you have the older Revision A board and the winmark results
-are absolutely normal. The later Revision B board benchmarks at 13
-to 15 million winmarks (at least mine does in 486DX-50 toy).

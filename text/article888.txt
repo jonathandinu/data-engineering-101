@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-Hello everyone,
-
-Could anyone tell me where to find some information about NetBios and Bios
-interrupt calls.  A book or maybe an FTP site.
-
-Thank you in advance.

@@ -1,3 +1,0 @@
-comp.sys.ibm.pc.hardware
-Can someone tell me the maximum horizontal and vertical refresh rates of the
-NEC 5fgx.(not the 5fge)

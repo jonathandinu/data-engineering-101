@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
- |> >
- |> >>To sum up, when an accelerated board with 4MB VRAM (True Colour 1280x1024)
- |> >>AND A FAST VGA SIDE is available under $500, I will buy one.
- 
- SuperMac just announced a new line of PC accelerated cards that do 1024x768 in
-24bit color.  They start at $999 retail.  I don't think your wait will be very long.

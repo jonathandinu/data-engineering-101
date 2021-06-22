@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-There would be no problems as long as the OS didn't set up a DMA transfer
-to an area above the 16 mb area (the DMA controller probably can't be
-programmed that way anyways, so there probably isin't a problem with this)

@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-This chip would take 25ns to return valid data after being issued an address.
-
-Refresh time (none for SRAM, as you pointed out) is a different parameter,
-and is not generally referred to except by motherboard designers.
-

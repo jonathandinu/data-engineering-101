@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-[stuff deleted]
-                                       ^^
-
-  Just a note, even though the 805 can address 2 megs of dram, the
-Stealth 24 VLB can only handle 1 meg, unless Diamond has a newer
-design (or some special deal with Zeos).

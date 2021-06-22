@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-Has anyone here dealt with Tangent?  I'm looking at an 486 system
- they have that has an EISA backplane with a VESA slot for video.
- The SCSI contoller they use is made by Aorta.  I've never heard
- of this brand.  Can anyone comment on Tangent or the controller?

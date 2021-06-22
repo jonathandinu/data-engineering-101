@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-If you bought your IDE drive from a dealer, you shouldn 't have to 
-perform a low level format. Even if the 1st HD is already partitioned
-into C and D, FDISK will automatically assign the 2 nd HD to D and 
-change the 2nd partition of 1st drive to E.

@@ -1,4 +1,0 @@
-comp.sys.ibm.pc.hardware
-I think it would be a great idea to have a new group created:
-
-comp.sys.ibm.pc.flame.therapy

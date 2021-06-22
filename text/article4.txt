@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-Pentium processors / motherboards are not available to the general public as 
-of yet.  Intel has released them to companies such as Gateway and Dell 
-to do testing, etc.  It'll be a while...
-

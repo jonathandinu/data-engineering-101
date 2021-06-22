@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-I have a question regarding sending a NULL character across ethernet
-connection. The actual problem is that emacs (Unix editior) needs
-the NULL character for setting a mark and unfortunately we don't know
-how to sent that from IBM PCs across ethernet. I am wondering if anyboy
-knows the keyboard combination for sending the NULL character. 
-BTW control,shift 2 which Ctrl @ does not work.
-
-Thanks

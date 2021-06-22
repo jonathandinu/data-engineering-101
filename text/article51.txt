@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-Contrary to what others might have thought, I actually did have a SCSI drive
-once.  It was the Seagate 296N and the ST-02 controller.  I found that the
-controller couldn't keep up with a 1:1 interleave, so the best I could do
-with the drive was a 2:1 interleave and a data transfer of about 450 k/sec.

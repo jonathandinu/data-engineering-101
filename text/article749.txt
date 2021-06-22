@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-Would someone please email me the pinout for a PS/2 6-pin mini DIN mouse
-port?  I'm trying to make an adapter for a serial mouse, and the dealer who
-knows what adapter works with the mouse I bought doesn't have it in stock.
-I have several different adapters, but none of them make sense based on
-what sketchy information I have about the port (they have connections to
-"reserved" pins).

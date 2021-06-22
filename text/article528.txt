@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-MINE has a 16450 sodered right on the card.  Why would you need the 16550
-anyway?  From what I've heard, when you're multitasking, its FIFO buffer keeps
-you from loosing data.  Is this right?

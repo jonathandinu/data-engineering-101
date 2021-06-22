@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-Just to let all you faithful Mitsumi CD Rom owners....
-
-Ever notice QEMM can't load you CD Rom driver high?  Ain't it a bitch?
-
-Well, you can call up Quarterdeck's BBS and get a hold of the new drivers
-that CAN be loaded high.  Sorry , I don't have their # on me. :-(
-
-I tested them out and the seem to work great!

@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-Could someone tell me if the ATI graphic ultra pro is supported in a version
-of vpic now.
-If so where is it located.
-thanks
-Robert
-
-email replies would be appreciated :-)

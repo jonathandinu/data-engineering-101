@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-Reply-to: apoylis@inode.com
-
-Is there a FAQ on Cyrix 486DLC? If I missed it, could anyone please repost
-or email it to me? Thanks in advance.
-
-... Alexander Poylisher, Internet: apoylis@inode.com; FidoNet: 1:2603/106

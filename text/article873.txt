@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-I believe you are right.  Both SCSI and SCSI-2 support 8 devices on the bus
-(normally that would be the host controller and 7 targets) each of which
-may have up to 8 logical units (LUNs).

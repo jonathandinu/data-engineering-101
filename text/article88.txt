@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-i've been using an identical setup, except for the tower config,
-for several months now.  from previous discussions on the net,
-the first thing to check for is DMA conflicts with other devices,
-especically if you've got any funky ones.  next off, suspect
-your tape - try a fresh one.  good luck !

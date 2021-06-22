@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-[..]
-Referring to the manual of my motherboard with AMI-BIOS, 10 beeps are a 
-'CMOS Shutdown Register Read/Write Error', if the system stops after these
-beeps. If the system continues, it is a 'Keyboard error'.
-
-Michael

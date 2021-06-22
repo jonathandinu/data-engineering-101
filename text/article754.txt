@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-Hi fellow netters,
-
-does anybody have any info on Tseng Labs ET4000 VLB card:
-price, speed, compatibility with existing and up-comming softwares,
-performance compared to others cards ( is it an S3 based card ?)....

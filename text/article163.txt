@@ -1,3 +1,0 @@
-comp.sys.ibm.pc.hardware
-Has anyone taken a look at the new ViewSonic 17? They claim 1280x1024 at 76Hz.
-How does it compare with the T560i in terms of price, and quality of display?

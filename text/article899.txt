@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-Hi!
-
-When posting Winmark results, it is a good idea to give the version of 
-WinBench that you used to obtain the scores, as well as the resolution that
-you tested and the version of the drivers.

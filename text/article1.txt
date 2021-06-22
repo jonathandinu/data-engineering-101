@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-The only things you'll be able to salvage from the junior are the floppy drives
-and monitor.  The floppies are 360k, and the monitor is CGA, but you will need
-an adaptor cable to use it.  The junior does not use standard cards.  Unless 
-you're really strapped for cash, you should just junk the thing and buy new 
-stuff.
-
-Dan

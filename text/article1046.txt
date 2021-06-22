@@ -1,2 +1,0 @@
-comp.sys.ibm.pc.hardware
-I have the PAS16 / Toshiba 3401 combo and have no problems with it.

@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-you also need to set the correct switch settings on your xt
-controller, which can be a pain, since most pc's don't come with
-proper docs for all hardware contained inside it.
-

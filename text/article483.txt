@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-When sw is delivered you will often (always?)  get 360 k
-diskettes if you opt for the 5 1/4 inch format. How big a %-tage
-of existing PC/XT/AT/PS2's have these low capacity drives as
-their only diskette station? 
-                                   (o o)
-+------------------------------oOO--(_)--OOo-----------------------------+
-+------------------------------------+-----------------------------------+

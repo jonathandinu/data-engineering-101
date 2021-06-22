@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-The ??-jumper is used, if the other drive a conner cp3xxx. 
-
-no jumper set: drive is alone
-MA: drive is master
-SL: drive is slave
-
-Michael

@@ -1,4 +1,0 @@
-comp.sys.ibm.pc.hardware
-Can anybody send CONNER CP-321 harddisk specifications?
-It has 612 Cyl, and 4 HD, but I am more intrested in its time-out values, 
-precomp, etc.

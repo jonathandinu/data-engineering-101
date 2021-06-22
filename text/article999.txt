@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-Perhaps you should try nic.funet.fi instead of funet.fi ??!?!?
-nic.funet.fi is THE biggest (?) ftp site from Europe, but
-the stuff available there should (?) also be available at the other site
-of the "big pool".

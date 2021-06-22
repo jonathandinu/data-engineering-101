@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-...
-
-It's an interesting idea, but the worst-case data patterns developed to
-test magnetic media are totally different than the patterns used to detect
-common faults in memory chips.

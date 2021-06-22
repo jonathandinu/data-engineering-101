@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-Maybe its a monitor problem.  You mentioned that you swapped cards, but not
-monitors.  Perhaps that could be it.
-
-Dan

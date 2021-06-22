@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-)  The documentation says that Wordperfect for windows, requires 4 M of ram, but
-)when I try to install it on my laptop I get a not enough memory error message.
-)I've unloaded everything that I possibly could but still, NOT ENOUGH MEMORY.
-)Anyone have any ideas as to why this might be happening. 

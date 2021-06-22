@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-Oh yeah! I just got my new Eizo Flexscan yesterday (to replace my old 8515), and
-I tried it with 1360x1024. This mode is just great! I can get four perfectly readable
-command windows on the screen! And if I need more colors, I can go back to 1024x768
-or even 800x600.
-One thing I am wondering though: Why isn't there a MONxxxx.DGS file which contains
-ALL the resolutions up to 1360x1024? Now I have to change the XGASETUP.PRO every
-time I want to switch, instead of simply going through the system settings of OS/2.
-Regards, Martin Erzberger

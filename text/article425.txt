@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-I've been troubleshooting the existence of way too many General Protection
-Faults on a 486-33, Eisa-VLB, system.  At this point I think I've narrowed
-the problem down to the video drivers for the Volante Warp-10 adapter by
-National Design, INc.
-
-Yet somehow I find this hard to believe.  Does anyone else have any
-experiences with this board.

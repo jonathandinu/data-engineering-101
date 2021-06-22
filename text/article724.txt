@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-XGA or XGA-2?  For the original XGA you just need something that can do
-1024x768 at 45/90Hz interlaced (just tell them "8514 compatible" and they
-should get the idea).  For the XGA-2, get what you like.  I prefer multi-
-syncs like the IBM 6319, the NECs or even a fixed frequency monitor like
-my home Viewsonic 6.  I like the Multisyncs because it's easy to run them
-in modes like 800x600x64k colors noninterlaced, or at higher modes like
-1360x1024x16.

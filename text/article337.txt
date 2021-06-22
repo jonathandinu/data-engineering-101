@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-The floppy is served by DMA on the motherboard,
-and original DMA-controller can't reach more than the first
-16MB (The address-space of the ISA-bus)
-joerg

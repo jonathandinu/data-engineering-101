@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-	Except for the fact that it's superior in just about every way to
-the ISA Bus.
-
-
-	Except for the new systems that now ship only with IDE controllers.

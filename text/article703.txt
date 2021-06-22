@@ -1,7 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-However, also be aware that Implementor's notes are basicly
-recommendations, they are *NOT* part of the spec.  As others have
-noted, many vendors (including SGI) violate this.  Indeed, the main
-point is to reduce impedance changes, and therefore reflections, and
-therefore 'noise' on the bus.

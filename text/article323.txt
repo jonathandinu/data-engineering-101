@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-I'm considering the purchase of a 486DX-33 VLB system to run linux.
-The system has an ASUS-brand motherboard.  Anyone have any comments
-on ASUS motherboards?
-
-Thanks,

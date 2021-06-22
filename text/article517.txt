@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-Excerpts from netnews.comp.sys.ibm.pc.hardware: 19-Apr-93 AMD i486
-clones: Now legal .. by poe@wharton.upenn.edu 
-
-It's true.  I read about it from an article in ClariNet (can't send it
-here though).  U.S. District Court Judge William A. Ingram, of San
-Francisco, threw out the jury verdict prohibiting AMD from using Intels'
-microcode for the 486.

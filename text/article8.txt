@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-I think it is an ESDI controller if you need the doco i can help you.
-
-  Stefan

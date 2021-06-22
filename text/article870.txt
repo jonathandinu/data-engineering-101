@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-Yeah.  Sounds typical.  Windows makes all sorts of extra demands on hardware,
-and therefore your machine can't keep up with things.  Ever notice how when
-acessing the floppies in Windows, everything else slows to a crawl?  I 
-imagine your backup and evertyhing else that is running fights for CPU time,
-and sometimes the backup program loses.  Be glad.  I can't even run in 
-medium speed with CP backup on my machine, supposedly because I have a SCSI
-machine which places extra demands on the data bus.

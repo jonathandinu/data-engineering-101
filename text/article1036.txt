@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-What do I need to do to configure this drive as a slave?
-Model# CP30101G
-
-Please reply via e-mail. Thanks!!

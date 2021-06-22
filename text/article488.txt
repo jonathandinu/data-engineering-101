@@ -1,9 +1,0 @@
-comp.sys.ibm.pc.hardware
-Keith,
-
-I had a problem getting 256 colors (I was stuck with 16) even though
-the flex-stuff said I was at 1024-256.  I solved it by entering
-the 'advanced' window on the flex program pannel and changing the
-'color palette'.  Sorry for the vaugeness, I hope it helps some.
-
-BTW, I have a GW2000-66V and 1M ATI GUP.

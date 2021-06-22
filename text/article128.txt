@@ -1,5 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-You are correct!  The motherboard manufacturer where I usually buy boards says
-that they will have this problem fixed in about two weeks...

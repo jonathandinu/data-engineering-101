@@ -1,3 +1,0 @@
-comp.sys.ibm.pc.hardware
-Does anyone have a list of the clock counts for pentium instructions --
-or know if the INTEGER mul is down to 1 tick?

@@ -1,8 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-
-We have plenty of computer labs where the computers are left on all the
-time. I don't see any shorter lifespan than the ones we have in the
-offices which does get turned off at the end of the day. In fact, some
-of the computers in the labs have outlived some of the same ones in the
-offices. But it goes both ways so can't conclude anything.

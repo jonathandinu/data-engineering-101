@@ -1,3 +1,0 @@
-comp.sys.ibm.pc.hardware
-I am looking for a CDROM audio cable to connect my Toshiba 3401B (L/R audio) to
-the Pro Audio Spectrum 16 sound card.  Thanks in advance for any pointers...

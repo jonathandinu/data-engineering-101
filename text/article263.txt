@@ -1,6 +1,0 @@
-comp.sys.ibm.pc.hardware
-
-I also use IRQ 5.  But there is one disadvantage.  Some games assume that
-the board is using IRQ 7 and have no way to adjust this setting.  I had
-trouble with some of the Lucas Films games.
--- 
