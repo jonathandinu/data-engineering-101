@@ -6,6 +6,8 @@
 
 > __⚠️ The resources are getting a much needed refresher for 2021 and will be transitioning to [Airflow](https://airflow.apache.org/). The general concepts will be the same but the code will be modernized.... stay tuned! ⚠️__
 
+The old code and exercises that correspond to the [PyData 2015](https://youtu.be/Ny2X_WNxrB4) workshop will live on the [pydata2015](/tree/pydata2015) branch
+
 ## LICENSE
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://jonathanjonathanjonathan.com">Jonathan Dinu</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0</a></p>
