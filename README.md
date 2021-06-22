@@ -6,7 +6,7 @@
 
 > __⚠️ The resources are getting a much needed refresher for 2021 and will be transitioning to [Airflow](https://airflow.apache.org/). The general concepts will be the same but the code will be modernized.... stay tuned! ⚠️__
 
-The old code and exercises that correspond to the [PyData 2015](https://youtu.be/Ny2X_WNxrB4) workshop will live on the [pydata2015](/tree/pydata2015) branch
+The old code and exercises that correspond to the [PyData 2015](https://youtu.be/Ny2X_WNxrB4) workshop will live on the [pydata2015](/data-engineering-101/tree/pydata2015) branch
 
 ## LICENSE
 
