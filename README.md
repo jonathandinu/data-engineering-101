@@ -37,15 +37,47 @@ Prior experience with Python and the scientific Python stack is beneficial.  The
 
 ### Run the Code
 
+#### Recommended: Use Virtual Environment
+If you don't have virtualenv installed, do:
+```bash
+pip install virtualenv
+# test if succeeded
+virtualenv --version
+```
+name your virtual environment (recommend "venv")
+```bash
+virtualenv -p python2.7 venv
+```
+Start env
+```bash
+source venv/bin/activate
+```
+
+##### Using requirements.txt to Track Dependencies
+```bash
+# ex:
+pip install requests
+# see a list of installed packages
+pip list
+# Regenerate requirements file with the current state of the environment packages
+pip freeze > requirements.txt
+# to delete virtual environment, just delete the folder
+rm -rf venv
+# when you recreate environment, use it
+pip install -r requirements.txt
+```
+
+
 #### Local
 
-1. Install libraries and dependencies: `pip install -r requirements.txt`
-2. Start the UI server: `luigid --background --logdir logs`
-3. Navigate with a web browser to `http://localhost:[port]` where `[port]` is the port the `luigid` server has started on (`luigid` defaults to port 8082)
-4. start the API Server: `python app.py`
-5. Evaluate Model: `python ml-pipeline.py EvaluateModel --input-dir text --lam 0.8`
-6. Run evaluation server (at `localhost:9191`): `topmodel/topmodel_server.py`
-7. Run the final pipeline: `python ml-pipeline.py BuildModels --input-dir text --num-topics 10 --lam 0.8`
+1. Activate your virtual environment (if following above recommendation)
+2. Install libraries and dependencies: `pip install -r requirements.txt`
+3. Start the UI server: `luigid --background --logdir logs`
+4. Navigate with a web browser to `http://localhost:[port]` where `[port]` is the port the `luigid` server has started on (`luigid` defaults to port 8082)
+5. start the API Server: `python app.py`
+6. Evaluate Model: `python ml-pipeline.py EvaluateModel --input-dir text --lam 0.8`
+7. Run evaluation server (at `localhost:9191`): `topmodel/topmodel_server.py`
+8. Run the final pipeline: `python ml-pipeline.py BuildModels --input-dir text --num-topics 10 --lam 0.8`
 
 --
 
@@ -65,7 +97,8 @@ Prior experience with Python and the scientific Python stack is beneficial.  The
 
 1. `docker run -it -v /LOCAL/PATH/TO/REPO/data-engineering-101:/root/workshop clearspandex/pydata-seattle bash`
 2. `pip2 install flask`
-3. `ipython2 app.py`
+3. `cd /root/workshop/`
+4. `ipython2 app.py`
 
 ### Libraries Used
 * [luigi](http://luigi.readthedocs.org/en/latest/index.html)
